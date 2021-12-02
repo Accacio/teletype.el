@@ -1,0 +1,3 @@
+#+TITLE: Readme
+
+#+HTML:  <p align="center"><img src="https://raw.githubusercontent.com/Accacio/teletype.el/master/example.gif" width="80%" title="" /></p>
